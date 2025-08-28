@@ -2,7 +2,6 @@
 ![Coding Vibes](https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif)
 
 
-Olá meu nome é Nicolas
 
 Criei minha primeira pasta 
 
