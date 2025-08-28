@@ -1,6 +1,9 @@
 # Primeiro-repositorio
 ![Coding Vibes](https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif)
 
+
+Olá meu nome é Nicolas
+
 Criei minha primeira pasta 
 
 # 🚀 Meu Primeiro Projeto em Python
@@ -27,4 +30,5 @@ Olá! 👋 Meu nome é Nicolas e sou um estudante apaixonado por tecnologia e es
 - Criar pequenos projetos com interface gráfica (Tkinter ou PyQt)
 - Explorar bibliotecas como `pandas`, `matplotlib` e `requests`
 - Contribuir com projetos open source
+
 
